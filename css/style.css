@@ -1,0 +1,29 @@
+body{
+	background-color:pink;
+	
+}
+
+#header-nav
+{
+	background-color: #f6b319;
+	border-radius: 0;
+	border:0;
+	height:85px;
+	
+
+}
+h1{
+	color:#fff;
+	font-size:35px;
+	margin-top: -5px;
+	margin-left:-10px;
+
+}
+#nav-list a
+{
+	color:red;
+}
+#nav-list a:hover
+{
+	background-color: white;
+}
